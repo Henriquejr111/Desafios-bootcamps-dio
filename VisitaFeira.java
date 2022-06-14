@@ -15,6 +15,7 @@ Imprimir a mensagem "X = " (sendo a letra X maiúscula) seguido pelo valor da
 variável X e pelo final de linha. Assegure que exista um espaço antes e depois
 do sinal de igualdade. */
 
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.io.IOException;
